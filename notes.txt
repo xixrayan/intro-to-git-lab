@@ -1,0 +1,17 @@
+GITHUB LAB
+
+1. Does creating the repository in GitHub create the repo on your computer?
+
+ANSWER:no
+
+
+
+2. What does cloning do?
+
+ANSWER: copy my repo to my computer
+
+
+
+3. Once you've cloned the repo, how do you open it in VS Code?
+
+ANSWER: code.   
