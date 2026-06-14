@@ -2,7 +2,7 @@ GITHUB LAB
 
 1. Does creating the repository in GitHub create the repo on your computer?
 
-ANSWER: No
+ANSWER: NO
 
 
 
